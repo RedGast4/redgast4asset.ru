@@ -2,17 +2,17 @@
  margin: 0;
  padding: 0;
  list-style-type: none;
- border: 2px solid #0066FF;
+ border: 2px solid black;
  border-radius: 20px 5px;
  width: auto;
  text-align: center;
- background-color: #33ADFF;
+ background-color: maroon;
 }
 #navbar li { 
  display: inline;
 }
 #navbar a {
- color: #fff;
+ color: white;
  padding: 5px 10px;
  text-decoration: none;
  font-weight: bold;
@@ -21,5 +21,5 @@
 }
 #navbar a:hover {
  border-radius: 20px 5px;
- background-color: #0066FF;
+ background-color: purple;
 }
